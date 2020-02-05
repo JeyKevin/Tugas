@@ -1,0 +1,105 @@
+.sign {
+	color: white;
+	font-family:"Times New Roman", Times, serif;
+}
+
+
+
+label {
+	color: #FFFFFF;
+}
+
+
+
+
+hr {
+	width: 250px;
+	border-top: 5px;
+	background-color: #ffffff;
+
+}
+
+
+
+.underline-title1 {
+     background: rgb(255,255,255);
+      height: 4px;
+      margin: -1.1rem auto 0 auto;
+      width: 250px;
+}
+
+
+
+
+.isi {
+
+	background-color: rgb(105, 105, 105);
+	width: 450px;
+	padding: 20px;
+	margin: auto;
+	margin-top: 20px;
+	border-style: dashed;
+	border-color: grey;
+	font-size: 18px; 
+
+}
+
+.s1 {
+
+	padding-top: 200px;
+
+}
+
+
+
+.i1{
+	
+	width: 400px;
+	border-radius: 100px;
+
+	}
+
+
+
+
+.i2{
+	
+	width: 400px;
+	border-radius: 100px;
+
+}
+
+.color {
+	background: rgb(179,8,182);
+	background: linear-gradient(90deg, rgba(179,8,182,1) 0%, rgba(219,125,255,1) 100%);
+}
+
+
+
+
+button	{
+
+	width: 300px;
+
+}
+
+
+
+
+.btn1{
+	background: rgb(25,138,5);
+	background: linear-gradient(90deg, rgba(25,138,5,1) 0%, rgba(82,203,97,1) 100%);
+	color: white;
+	border-radius :10px;
+	border: 0px;
+}
+
+.btn2{
+
+	background: rgb(224,4,50);
+background: linear-gradient(90deg, rgba(224,4,50,1) 0%, rgba(255,84,132,1) 100%);
+	color: white;
+	border-radius :10px;
+	border: 0px;
+
+} 

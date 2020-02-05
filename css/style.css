@@ -1,0 +1,72 @@
+.table {
+	
+	background: rgb(179,8,182);
+  background: linear-gradient(90deg, rgba(179,8,182,1) 0%, rgba(219,125,255,1) 100%);
+	padding-bottom: 80px;
+	padding-top: 50px; 
+}
+
+.input {
+	padding-bottom: 100px;
+	padding-top: 80px;
+	background-color: #EEEEEE;
+}
+
+hr	{
+	width: 400px;
+	border-top: 100px;
+}
+
+.jdl {
+color: white;
+
+}
+
+td {
+	color: #ffffff;
+}
+
+.tr1 {
+	background: rgb(179,8,182);
+  background: linear-gradient(90deg, rgba(179,8,182,1) 0%, rgba(219,125,255,1) 100%);
+}
+
+.txt1 {
+	color:  #3B3B3B;
+}
+
+button {
+	width: 670px;
+	height: 50px;
+}
+
+.ukuran {
+  width: 200px;
+  height: 34px;
+  overflow: hidden;
+  background: no-repeat right #749ABE;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  transition:ease all 0.3s;
+  -webkit-transition:ease all 0.3s;
+  
+}
+.ukuran{
+  box-shadow:0 0 7px 5px lightblue;
+}
+.ukuran{
+  background: transparent;
+  width: 220px;
+  padding: 5px;
+  font-size: 16px;
+  line-height: 1;
+  border: 0;
+  border-radius: 0;
+  height: 34px;
+  -webkit-appearance: none;
+}
+
+.ukuran{
+  color: #fff;
+}
